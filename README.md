@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @gabriellatavares!
 - 👀 I’m interested in learning new ways to improve my coding skills!
-- 🌱 I’m currently learning React Native!
+- 🤓 I recently graduated from Full Stack bootcamp at Barcelona Code School!
 - 🚀 I’m looking foward to land a job.
+- 🪐 Link to my portfolio: http://gabriellatavares.surge.sh/
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/gabriella-tavares/ 
 
 <!---
