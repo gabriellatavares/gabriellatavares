@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new ways to improve my coding skills!
 - 🤓 I recently graduated from Full Stack bootcamp at Barcelona Code School!
 - 🚀 I’m looking foward to land a job.
-- 👩‍💻 Currently learning Jest and Sass.
+- 👩‍💻 Currently learning more about UX Design.
 - 🪐 Link to my portfolio: http://gabriellatavares.surge.sh/
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/gabriella-tavares/ 
 
