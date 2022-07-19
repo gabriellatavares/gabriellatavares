@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabriellatavares!
 - 👀 I’m always interested in learning new ways to improve my coding skills!
 - 🚀 I’m currently working as a frontend developer.
-- 👩‍💻 Currently learning more about Vue 3.
+- 👩‍💻 Currently working with Vue 3.
 - 🪐 Link to my portfolio: http://gabriellatavares.surge.sh/
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/gabriella-tavares/ 
 
